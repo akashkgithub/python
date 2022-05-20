@@ -8,7 +8,7 @@ https://colab.research.google.com/drive/1eUHy1YFDPQ5Pc5hhydsb4wL7PhNCtNfd?usp=sh
 <!DOCTYPE html>
 <html>
 <body>
-<img src="Problem.jpg" alt="Problem" width="460" height="345">
-<img src="Solution.jpg" alt="Solution" width="460" height="345">
+<img src="images/Problem.jpg" alt="Problem" width="460" height="345">
+<img src="images/Solution.jpg" alt="Solution" width="460" height="345">
 </body>
 </html>
